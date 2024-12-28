@@ -1,1 +1,3 @@
-# Gesture-Controlled-UArm
+# Gesture Controlled UArm
+## Needed Packages
+-- 'pyfirmata'
