@@ -1,3 +1,3 @@
 # Gesture Controlled UArm
 ## Needed Packages
--- 'pyfirmata'
+- `pyfirmata` - Communnicates with the arduino board
