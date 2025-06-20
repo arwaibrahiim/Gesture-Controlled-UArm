@@ -5,3 +5,5 @@
 - `math` - Performs calculations for distance and angle mapping.
 - `mediapipe` - Detects and tracks hand landmarks in real time for gesture recognition.
 - `opencv-python` - Captures video frames and preprocesses images.
+## Perquisites
+- Install CoppeliaSim Simulator 
